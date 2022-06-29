@@ -1,0 +1,12 @@
+
+
+
+
+- Condemnation Bd search query
+
+- Separate UP and CP in Summary
+- Summary Details page 
+
+- Print option for item details
+
+

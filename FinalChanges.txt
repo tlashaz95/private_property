@@ -1,0 +1,17 @@
+- Acct approval from 2IC
+- Change of Charge and Condemnation Bd by QM (add bd proceeding pic)
+- Army No to be added in On Charge of (indl)
+- Font Size of Menu and Summary
+
+- Asterik with mandatory fields
+- 4th Tier for 2IC who can view, add, edit and delete. QM can only view, add and approve items
+- Presented by field to be added. 
+'Entered by' to be auto filled as per the login details
+
+- Condemnation Bd search to be shown by radio btn select option
+- Remove Condemnation Bd from edit page
+
+- Summary Details page 
+
+
+
